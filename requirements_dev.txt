@@ -2,7 +2,7 @@
 
 Django==2.1.1
 sqlparse==0.2.4
-django_jinja
+django_jinja==2.4.1
 
 # Testing
 
