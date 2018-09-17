@@ -1,6 +1,6 @@
 # Runtime dependencies
 
-Django
+Django==2.1.1
 sqlparse
 django_jinja
 
